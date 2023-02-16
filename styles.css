@@ -9,3 +9,7 @@ table table{
 	width:100%;
      
 }
+.bg{
+	background-color:rgb(0,0,0);
+	color:white;
+}
